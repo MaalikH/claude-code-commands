@@ -1,6 +1,6 @@
 # Claude Code Slash Commands
 
-33 custom slash commands I use every day with Claude Code. Drop them into your `.claude/commands/` folder and they just work.
+35 custom slash commands I use every day with Claude Code. Drop them into your `.claude/commands/` folder and they just work.
 
 ## Quick Start
 
@@ -25,7 +25,7 @@ cp claude-code-commands/commands/core/review.md ~/.claude/commands/
 
 ## Commands
 
-### Core (16 commands)
+### Core (18 commands)
 
 | Command | What it does |
 |---------|-------------|
@@ -45,6 +45,8 @@ cp claude-code-commands/commands/core/review.md ~/.claude/commands/
 | `/run-device` | Builds, installs, and launches an iOS app on a connected physical device. One command. |
 | `/create-spec` | Creates a product specification from requirements. |
 | `/create-stories` | Generates user stories with acceptance criteria. |
+| `/modern-frontend` | Enforces a premium design system inspired by Resend, Linear, and Harvey.ai. Curated palettes, fonts, motion limits, Bootstrap 5 integration. No generic AI aesthetics. |
+| `/modern-mobile` | Premium mobile UI for iOS (SwiftUI/UIKit) and cross platform (Ionic/Capacitor). Card patterns, navigation, typography, and motion from Peapod, Relay, Denim, and Navan Edge. |
 
 ### SpecKit (9 commands)
 
